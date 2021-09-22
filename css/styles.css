@@ -1,0 +1,57 @@
+body{
+    background-color: #393e46 ;
+    font-family: 'Indie Flower', cursive;
+    color: #4ecca3;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+    text-shadow: 5px 0 #232931;
+    font-weight: bold;
+    /* display: inline-block; */
+    margin-top: 10%;
+}
+
+
+p{
+    font-size: 1.2rem;
+}
+
+.flag{
+    width: 40px;
+    margin-top: 7%;
+
+}
+
+/* Dice */
+.player-dice{
+    width: 80%;
+}
+/* Section */
+#dice{
+    margin-top: 20%;
+}
+.dices{
+    width: 100%;
+    margin-top: 5%;
+}
+
+#main-text{
+    margin-top: 2%;
+}
+
+.player-image{
+    size: 100px;
+}
+
+/* Footer */
+#footer{
+    margin-top: 60%;
+    color: white;
+}
+/* 
+@media only screen and (max-width: 600px){
+
+} */
