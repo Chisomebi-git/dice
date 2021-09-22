@@ -17,6 +17,7 @@ h1{
 
 p{
     font-size: 1.2rem;
+    text-shadow: 1px 0 #232931;
 }
 
 .flag{
@@ -44,6 +45,14 @@ p{
 
 .player-image{
     size: 100px;
+}
+
+/* button to start game */
+.button-starts{
+    margin-top: 10%;
+}
+.actual-button{
+    font-weight: bold;
 }
 
 /* Footer */
