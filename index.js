@@ -39,3 +39,6 @@ function diceRoll(){
 
 document.querySelectorAll(".dices")[0].addEventListener("click", function(){alert("Can't touch this.")} );
 document.querySelectorAll(".dices")[1].addEventListener("click", function(){alert("Can't touch this too.")} );
+var auido = new Audio("sounds/dice-sound.mp3");
+document.querySelector(".btn").addEventListener("click", function(){auido.play()});
+
